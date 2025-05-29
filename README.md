@@ -1,5 +1,5 @@
 # Concierge Digital App - Events Platform
-Projeto desenvolvido como plataforma completa para gerenciamento de eventos corporativos da Accenture.
+Projeto desenvolvido durante a Residência Tecnológica do Porto Digital em parceria com a Accenture.
 
 ---
 
