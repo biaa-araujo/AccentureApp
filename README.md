@@ -162,12 +162,6 @@ Para ambiente de desenvolvimento (com hot-reload):
 npm run dev
 ```
 
-Para build de produção:
-```bash
-npm run build
-npm run preview
-```
-
 ### **5. Acesse o sistema no navegador**
 
 ```
